@@ -5,7 +5,7 @@ import datetime
 
 # config: save to csv every 'n_rounds'; get gasprices every 'waittime' seconds; 'filename'; 'csv_separator'
 n_rounds = 10
-waittime = 1
+waittime = 60
 filename = 'gasprices'
 csv_separator = ';'
 
